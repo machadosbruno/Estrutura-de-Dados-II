@@ -1,0 +1,1 @@
+Arquivos de exercícios criados com base nos arquivos da aula dos dias 11 e 18, armazenados no diretório do dia 11.
